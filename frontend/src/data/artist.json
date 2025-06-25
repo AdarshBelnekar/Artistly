@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "DJ Nova",
+    "category": "DJ",
+    "priceRange": "₹10k",
+    "location": "Mumbai",
+    "bio": "High-energy DJ spinning club anthems and EDM hits. Known for electrifying live sets.",
+    "image": "/art.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Sonal Singh",
+    "category": "Dancer",
+    "priceRange": "₹5k",
+    "location": "Delhi",
+    "bio": "Versatile dancer trained in classical, Bollywood, and hip-hop. Regular performer at cultural fests.",
+    "image": "/art-speaker.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Neha Sharma",
+    "category": "Singer",
+    "priceRange": "₹20k",
+    "location": "Kolkata",
+    "bio": "Award-winning vocalist with expertise in Indian classical and Bollywood genres.",
+    "image": "/art-dancer.jpg"
+  },
+  {
+    "id": 4,
+    "name": "MC Raghav",
+    "category": "Speaker",
+    "priceRange": "₹8k",
+    "location": "Bangalore",
+    "bio": "Motivational speaker and host for corporate events and college fests. Engaging and dynamic.",
+    "image": "/speaker.jpg"
+  },
+  {
+    "id": 5,
+    "name": "DJ Electra",
+    "category": "DJ",
+    "priceRange": "₹25k",
+    "location": "Pune",
+    "bio": "Female DJ known for upbeat Bollywood remixes and corporate party vibes.",
+    "image": "/art-speaker.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Aakash Mehta",
+    "category": "Speaker",
+    "priceRange": "₹18k",
+    "location": "Chennai",
+    "bio": "Stand-up comedian and public speaker with great storytelling abilities.",
+    "image": "/art-dancer.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Shruti Dance Crew",
+    "category": "Dancer",
+    "priceRange": "₹50k",
+    "location": "Hyderabad",
+    "bio": "Professional dance troupe performing in weddings and TV reality shows.",
+    "image": "/dancer.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Rahul Dev",
+    "category": "Singer",
+    "priceRange": "₹40k",
+    "location": "Ahmedabad",
+    "bio": "Playback singer and live performer with a voice that stirs emotions.",
+    "image": "/singer.jpg"
+  }
+]
